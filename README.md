@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaigeWarden
-- 👀 I’m interested in Front End Developmeny
-- 🌱 I’m currently learning HTML/CSS, JavaScript
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, paigewarden123@gmail.com
 
